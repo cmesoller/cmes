@@ -3,7 +3,7 @@
 # No publish_mode: "Desa" commits straight to main (D19).
 backend:
   name: github
-  repo: Campano/cmes
+  repo: cmesoller/cmes
   branch: main
   auth_endpoint: api/auth
   commit_messages:
