@@ -11,7 +11,11 @@ Proves i competicions organitzades per la [Federació Balear de Muntanyisme i Es
 
 ## Activitats del club
 
-Sortides i activitats organitzades pel CMES (senderisme, escalada, barranquisme…). Estan enfocades als socis del club, que han de tenir en vigor la llicència federativa corresponent. L’inscripció es fa al cap de secció a través del grup de WhatsApp dedicat de la secció.
+Sortides i activitats organitzades pel CMES (senderisme, escalada, barranquisme…). Estan enfocades als socis del club, que han de tenir en vigor la llicència federativa corresponent. Segons l’activitat, també hi poden participar persones que no són socis: un soci pot dur un amic, per exemple. Ho decideix el responsable de l’activitat.
+
+Si el participant extern no està federat, es pot contractar una assegurança d’activitat d’un dia, com a mínim 4 dies abans de l’activitat.
+
+L’inscripció es fa al cap de secció a través del grup de WhatsApp dedicat de la secció.
 
 Els caps de secció es reserven el dret a canviar, anul·lar, posposar o modificar les activitats per causes de força major.
 
